@@ -1,0 +1,8 @@
+{
+  "name": "marelli",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c2f84fa1"
+}
